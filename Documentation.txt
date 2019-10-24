@@ -10,3 +10,8 @@ Books:
 
 
 Ideas:
+
+
+
+How to create a slider:
+http://kenwheeler.github.io/slick/
