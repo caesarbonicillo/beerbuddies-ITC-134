@@ -1,1 +1,3 @@
 WorkLog
+
+ClassTime 10/24
