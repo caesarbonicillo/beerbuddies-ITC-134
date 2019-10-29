@@ -82,5 +82,40 @@ Step 10 Bottling or Kegging (The Final Step!):Once your beer has fermented for h
 
 
 
+Beer Styles
+
+
+Simply put, a beer style is a label given to a beer that describes its overall character and, oftentimes, its place of origin. 
+It's a name that has been broadly accepted by brewers and consumers after years or even centuries of trial and error, scientific research, and marketing. 
+The styles listed here reflect our own spin on the constantly evolving world of beer, with short, jargon-free descriptions included to help anyone understand the similarities and differences.
+Use these styles as a guide when reviewing a beer's appearance, aroma, taste. Here the most famous style beer.
+
+
+Porter : Is a dark style of beer developed in London from well-hopped beers made from brown malt.
+The name was first recorded in the 18th century, and is thought to come from its popularity with street and river porters, who carried objects for others.
+The history and development of stout and porter beer types are intertwined.The name "stout", used for a dark beer, 
+is believed to have come about because strong porters were marketed under such names as "extra porter", "double porter", and "stout porter". 
+The term stout porter would later be shortened to just stout. For example, Guinness Extra Stout was originally called "Extra Superior Porter" and was only given the name "Extra Stout" in 1840.
+
+Stout :is a dark, top-fermented beer with a number of variations, including dry stout, Baltic porter, milk stout, and imperial stout.
+the first known use of the word stout for beer was in a document dated 1677 found in the Egerton Manuscripts, the sense being that a "stout beer" was a strong beer, not a dark beer.
+
+Ale :is a type of beer brewed using a warm fermentation method, resulting in a sweet, full-bodied and fruity taste. Historically, 
+the term referred to a drink brewed without hops. As with most beers, ale typically has a bittering agent to balance the malt and act as a preservative.
+
+Bock: is a bottom fermenting lager that generally takes extra months of lagering (cold storage) to smooth out such a strong brew. 
+Bock beer in general is stronger than your typical lager, more of a robust malt character with a dark amber to brown hue.
+
+Lager : is a type of beer conditioned at low temperatures. Lagers can be yellow pale, amber, or dark. 
+Pale lager is the most widely consumed and commercially available style of beer.
+
+Pilsner: is a type of pale lager. It takes its name from the Czech city of Pilsen, where it was first produced in 1842 by Bavarian brewer Josef Groll. 
+The world's first blond lager, the original Pilsner Urquell, is still produced there today.
+
+India pale ale : is a hoppy style within the broader category of pale ale. The export style of pale ale, which had become known as India pale ale, 
+developed in England around 1840, later became a popular product there.
+
+Wheat : is a usually top-fermented, which is brewed with a large proportion of wheat relative to the amount of malted barley. The two main varieties are Weissbier, based on the German tradition, and Witbier, 
+based on the Belgian tradition; minor types include Lambic (made with wild yeasts and bacteria), Berliner Weisse (a cloudy, sour beer), and Gose (a German-type sour, salty, herbal beer).
 
 
