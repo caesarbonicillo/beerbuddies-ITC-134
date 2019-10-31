@@ -1,8 +1,9 @@
 header{
 
+
 }
 nav{
-    height: 50px;
+    height: 150px;
     line-height: 50px;
     background: #F79444;
     width: 100%;
@@ -14,6 +15,8 @@ main{
     width: 80%;
     max-width: 1000px;
     margin:50px auto;
+    height:900px;
+    margin-top: 50px;
 
 }
 
@@ -67,5 +70,19 @@ img.beertypes{
     max-width: 300px;
 }
 
+div.embed-container{
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    margin: auto;
+    max-width: 98%;
+}
 
-
+div.embed-container iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
