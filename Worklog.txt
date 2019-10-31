@@ -9,5 +9,11 @@ ClassTime 10/29
 whole team Setting up website 2 hours.
 
 Kevin Kantano 2 hours website 10/30
+creates the nav bar and make it stay still
+fixes the h1,h2,h3,p tags
+adds img tags
+
+
 David Bonicillo + Kevin Kantano 10/31
 2.5 hours working on the website. 
+adds footer and google maps iframe
