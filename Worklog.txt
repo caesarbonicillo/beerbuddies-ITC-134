@@ -17,3 +17,10 @@ adds img tags
 David Bonicillo + Kevin Kantano 10/31
 2.5 hours working on the website. 
 adds footer and google maps iframe
+
+David Bonicillo - Team Lead
+Kevin Kantana - Developer
+Jon Kindle  - Designer
+Abdullah Alijanabi- Aux
+Sebastian Quintana  -Content
+
